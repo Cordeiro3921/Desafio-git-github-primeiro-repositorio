@@ -1,2 +1,4 @@
 # Desafio-git-github-primeiro-repositorio
-desafio de projeto sobre git/github
+repositorio criado para o desafio de projeto 
+# links uteis 
+[Sintaxe basica markdown](https://www.markdownguide.org/getting-started/)
