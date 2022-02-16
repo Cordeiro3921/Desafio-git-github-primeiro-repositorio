@@ -1,4 +1,12 @@
-# Desafio-git-github-primeiro-repositorio
-repositorio criado para o desafio de projeto 
-# links uteis 
-[Sintaxe basica markdown](https://www.markdownguide.org/getting-started/)
+# Aulas Java 
+
+Repositório criado para fazer anotações e compartilhar códigos da minhas aulas na dio.
+
+# Links atuais de estudo 
+
+[introdução java ](https://www.markdownguide.org/getting-started/)
+
+
+
+# anotações e códigos 
+
